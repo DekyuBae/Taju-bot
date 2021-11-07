@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && node zeeone
+worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm start
