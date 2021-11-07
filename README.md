@@ -38,9 +38,6 @@
   # Thanks
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Depin`](https://github.com/DepinKunn)
-  
-  ## `ADD BUILDPACK`
-
-```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-```
+ 
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DekyuBae/Taju-bot/)
